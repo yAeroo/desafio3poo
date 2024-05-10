@@ -1,4 +1,5 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,9 +21,15 @@
             <li><a href="#"></a></li>
         </ul>
     </nav>
-    <a class="btn" href="login.jsp"><button>Iniciar Session</button></a>
+    <a class="btn" href="login.jsp"><button>Ingresar</button></a>
 </header>
-<section class="contenedor">
+<section class="intro">
+    <strong class="intro-text">
+        <P>Banca</P>
+        <p>Integra Plus</p>
+        <p class="texttt">"¡Únete hoy y haz que tu dinero trabaje para ti!"</p>
+    </strong>
+
 </section>
 </body>
 </html>

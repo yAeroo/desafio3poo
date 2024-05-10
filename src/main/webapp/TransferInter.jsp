@@ -14,9 +14,10 @@
     </div>
     <nav>
         <ul class="nav-links">
-            <li><a href="#">Pago de Servicios</a></li>
-            <li><a href="#">Transferencia nacional</a></li>
-            <li><a href="#">Transferencia internacional</a></li>
+            <li><a href="home.jsp">Inicio</a></li>
+            <li><a href="pagoService.jsp">Pago de Servicios</a></li>
+            <li><a href="Transfer.jsp">Transferencia nacional</a></li>
+            <li><a href="TransferInter.jsp">Transferencia internacional</a></li>
         </ul>
     </nav>
     <a class="btn"><button>Cerrar Session</button></a>
